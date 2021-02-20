@@ -5,29 +5,51 @@
 **DIR:** – Listando arquivos e pastas
 
 **COPY:** – Copiar arquivos
+
 **MOVE:** Mover arquivos ou renomear pastas
+
 **MD:**– Criar uma Nova pasta
+
 **CD:** Entrar em uma pasta
 .:Retornar para a pasta anterior
-RD:  Remover pastas
-ERASE: Deletar arquivos
-DEL:  Deletar arquivos
-REN: Renomear arquivos (EX: ren imagem.jpg foto.jpg)
-TIME:  O comando time permite acertar a hora e o comando date permite corrigir a data.
-BOOTCFG: Permite ver as configurações do seu menu de boot
-DEFRAG: Desfragmentador de disco.
-DISKPART: Gerencia as partições de um disco.
-DRIVERQUERY: Mostra a lista de drivers instalados no Windows e as respectivas propriedades.
-FSUTIL: O comando fsutil tem vários complementos que serão listados digitando-o sem nenhum parâmetro. Digite fsutil fsingo drives e terá a lista dos drives no seu micro.
-GEPRESULT: Este comando mostrará configurações de usuários e de diretivas de grupos.
-RECOVER: Permite a recuperação de arquvios em disco danificado.
-REG: Comando para exportar chaves do registro, copiar, restaurar, comparar, etc.
-SCHTASKS: Para agendar, executar, alterar ou deletar tarefas numa máquina local ou remota com Windows.
-SFC: Comando que permite verificar arquivos de sistemas alterados de forma indevida e recuperar os arquivos originais e oficiais da Microsoft, o que nem sempre será recomendável. Por exemplo, o arquivo uxtheme.dll modificado para permitir o uso de temas voltaria a ser substituído pelo original.
-SHUTDOWN: O comando shutdown permite desligar ou reiniciar o computador de forma imediata ou agendada.
-SYSTEMINFO: Fornece informações básicas sobre o sistema.
-TASKLIST: Mostra a lista de processos sendo executados no Windows.
-TASKKILL: Permite finalizar algum processo. O comando é quase sempre usado com base nas informações fornecidas pelo tasklist. Por exemplo, para finalizar o Messenger digite “taskkill /PID 1680”. A identificação do PID de cada processo sendo executado você ficará sabendo com o comando tasklist.
+
+**RD:**  Remover pastas
+
+**ERASE:** Deletar arquivos
+
+**DEL:**  Deletar arquivos
+
+**REN:** Renomear arquivos (EX: ren imagem.jpg foto.jpg)
+
+**TIME:**  O comando time permite acertar a hora e o comando date permite corrigir a data.
+
+**BOOTCFG:** Permite ver as configurações do seu menu de boot
+
+**DEFRAG:** Desfragmentador de disco.
+
+**DISKPART:** Gerencia as partições de um disco.
+
+**DRIVERQUERY:** Mostra a lista de drivers instalados no Windows e as respectivas propriedades.
+
+**FSUTIL:** O comando fsutil tem vários complementos que serão listados digitando-o sem nenhum parâmetro. Digite fsutil fsingo drives e terá a lista dos drives no seu micro.
+
+**GEPRESULT:** Este comando mostrará configurações de usuários e de diretivas de grupos.
+
+**RECOVER:** Permite a recuperação de arquvios em disco danificado.
+
+**REG:** Comando para exportar chaves do registro, copiar, restaurar, comparar, etc.
+**SCHTASKS:** Para agendar, executar, alterar ou deletar tarefas numa máquina local ou remota com Windows.
+
+**SFC:** Comando que permite verificar arquivos de sistemas alterados de forma indevida e recuperar os arquivos originais e oficiais da Microsoft, o que nem sempre será recomendável. Por exemplo, o arquivo uxtheme.dll modificado para permitir o uso de temas voltaria a ser substituído pelo original.
+
+**SHUTDOWN:** O comando shutdown permite desligar ou reiniciar o computador de forma imediata ou agendada.
+
+**SYSTEMINFO:** Fornece informações básicas sobre o sistema.
+
+**TASKLIST:** Mostra a lista de processos sendo executados no Windows.
+
+**TASKKILL:**Permite finalizar algum processo. O comando é quase sempre usado com base nas informações fornecidas pelo tasklist. Por exemplo, para finalizar o Messenger digite “taskkill /PID 1680”. A identificação do PID de cada processo sendo executado você ficará sabendo com o comando tasklist.
+
 ASSOC: Exibe ou modifica associações de extensões de arquivo.
 AT: Agenda comandos e programas para serem executados em um computador.
 ATTRIB: Exibe ou altera atributos de arquivos.
